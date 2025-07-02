@@ -1,4 +1,4 @@
-import NETFLIX from "./netflix.png";
+import NETFLIX from "./netflix.PNG";
 import FORUM from "./forum.jpg";
 import AMAZON1 from "./amazon1.png";
 import AMAZON2 from "./amazon2.png";
